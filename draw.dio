@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="zE4ciigJIB0fLhsUzriK" name="Page-1">
+        <mxGraphModel dx="765" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="storage = {&lt;br&gt;x10ffe =&amp;gt; 10&lt;br&gt;x10ffaa =&amp;gt; {}&lt;br&gt;x10ffbb =&amp;gt; {}&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="40" width="220" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="let a = 10;&lt;br&gt;let b = 10;&lt;br&gt;let c = 5+5;&lt;br&gt;let d = {}&lt;br&gt;let e = {}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="50" width="270" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="a === b" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="340" width="220" height="220" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
